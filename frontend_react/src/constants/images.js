@@ -1,4 +1,5 @@
 import email from '../assets/email.png';
+import mail from '../assets/mail.png'
 import mobile from '../assets/mobile.png';
 import api from '../assets/api.png';
 import cpp from '../assets/cpp.png';
@@ -41,6 +42,7 @@ import vtk from '../assets/vtk2.png'
 
 const images = {
   email,
+  mail,
   mobile,
   api,
   cpp,
